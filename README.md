@@ -1,6 +1,4 @@
 # conversor-monedas
-Conversor de monedas en java back end
- Conversor de Monedas 💱
 
 Este es un conversor de monedas desarrollado en Java como parte de back end del programa ONE de Oracle.
 
